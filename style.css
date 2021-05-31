@@ -1,0 +1,22 @@
+
+table tr {
+    background:#F5FFFA;
+}
+table tr:nth-child(even) {
+    background:#F0F8FF;
+}
+form label {
+    display: inline-block;
+    width: 100px;
+}
+form input[type="submit"] {
+    border: 5px solid #031b18;
+    background-color: #020308;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 20px;
+    position: center;
+}
+form input[type="text"] {
+    border: 1p solid #197143;
+}
